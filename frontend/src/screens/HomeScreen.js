@@ -25,7 +25,7 @@ function HomeScreen({history}) {
 
     return (
         <div>
-            <h1>Latest Products</h1>
+            <h2> This is a Demo Website. <a style={{"color": "blue", 'text-decoration': 'underline'}} href='https://md-shoaib.me' target="_blank" >Contact The Developer</a> </h2>
             {
                 loading ? <Loader/>
                 : error ? <Message variant='danger' > {error}</Message>
