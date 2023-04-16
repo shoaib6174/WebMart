@@ -1,4 +1,4 @@
-View live on: https://shoaib-commerce.herokuapp.com/#/
+View live on: https://shoaib-commerce.herokuapp.com/#/ [This site has been shut down]
 
 Technologies used:
 - React.js
